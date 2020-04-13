@@ -1,0 +1,56 @@
+.App {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.form .title {
+  display: flex;
+  align-items: baseline;
+}
+.form .title h1 {
+  color: #444;
+}
+
+.form .title img {
+  height: 100px;
+}
+
+.form form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.form form button {
+  width: 100%;
+  height: 50px;
+  margin-top: 20px;
+  max-width: 600px;
+  border: 0;
+  background: #444;
+  color: #ddd;
+  border-radius: 8px;
+  transition: background 0.3s;
+}
+.form form button:hover {
+  background: #333;
+}
+.form form input {
+  max-width: 600px;
+  color: #555;
+}
+.form form input::-webkit-input-placeholder {
+  color: #666;
+  opacity: 0.6;
+}
