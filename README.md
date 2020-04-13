@@ -8,7 +8,7 @@
   </a>
 </p>
 
-> example api resful adonis js
+> search your friends from github
 
 ## Install
 
