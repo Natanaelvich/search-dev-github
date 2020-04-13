@@ -1,14 +1,14 @@
 <h1 align="center">Welcome to SearchDev 👋</h1>
 <p>
   <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" />
   </a>
   <a href="https://twitter.com/natanaelvich" target="_blank">
     <img alt="Twitter: natanaelvich" src="https://img.shields.io/twitter/follow/natanaelvich.svg?style=social" />
   </a>
 </p>
 
-> search your friends from github
+> search your github friends
 
 ## Install
 
